@@ -69,6 +69,7 @@ public class MainActivity extends AppCompatActivity {
                 alarmManager.cancel(pendingIntent);
                 intent.putExtra("extra","off");
                 sendBroadcast(intent);
+                
             }
         });
     }
