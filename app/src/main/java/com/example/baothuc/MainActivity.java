@@ -58,7 +58,7 @@ public class MainActivity extends AppCompatActivity {
                 );
                 alarmManager.set(AlarmManager.RTC_WAKEUP,calendar.getTimeInMillis(),pendingIntent);
 
-                txtHienThi.setText("Giờ bạn đặt giờ là:" + string_giơ + ":" + string_phut);
+                txtHienThi.setText("Giờ bạn đặt bây giờ là:" + string_giơ + ":" + string_phut);
             }
         });
 
@@ -69,7 +69,7 @@ public class MainActivity extends AppCompatActivity {
                 alarmManager.cancel(pendingIntent);
                 intent.putExtra("extra","off");
                 sendBroadcast(intent);
-                
+
             }
         });
     }
