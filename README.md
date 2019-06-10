@@ -14,4 +14,7 @@
     Sau khi thực hiện xong bạn chỉ cần bấm vào nút "Hẹn giờ" lúc này thì bạn đã đặt giờ và sẽ có dòng thông báo nho nhỏ phía dưới là 
     Giờ bạn đặt là: (Ví dụ: Giờ bạn đặt là: 4h00SA). Sau khi báo thức đổ chuông bạn muốn ngừng lúc này bạn chỉ cần thao tác bấm vào nút ngưng
     trên màn hình để tắt âm thanh và ngừng báo thức.
-	</p>
+		
+</p>
+	
+	
